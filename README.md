@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# HOLMEScdk.github.io
+Repository for HOLMES's academic research website.
